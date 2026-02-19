@@ -1,0 +1,7 @@
+{
+  "name": "Museo de La Mancha - Sistema de Gestión",
+  "description": " Curso diseño y desarrollo de productos de software: Sistema integral de gestión museística con paneles para catalogación, restauración y dirección ejecutiva, incluyendo monitoreo de vestíbulo y analíticas de rendimiento.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
